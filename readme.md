@@ -33,5 +33,5 @@ Projeto original [maykybrito/devlinks](https://github.com/maykbrito/devlinks)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](monteirocleu.github.io/projeto/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](monteirocleu.github.io/projeto). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
